@@ -73,7 +73,7 @@ Your submission will be evaluated based on the following:
 ---
 
 ## Deadline
-🕒 **16 March 2025, 11:59 PM**
+🕒 **23 March 2025, 11:59 PM**
 
 For any queries, reach out to me via **DMs**, and feel free to connect with your peers in the domain-wise group.
 
