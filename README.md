@@ -29,9 +29,9 @@ For more details on Git, refer to [Git Documentation](https://git-scm.com/doc).
 ---
 
 ## Learning Resources
-Refer to the following resources to brush up on HTML and CSS:
+Refer to the following resources to brush up on Vite, JavaScript, TypeScript and Git:
 
-- [HTML & CSS Learning Resource](https://docs.google.com/document/d/1_aV2zSxGqxYbqkQcOpeKf5ikivCw9n7RjQi7dJ18Q8Y/edit?usp=sharing)
+- [Vite, JavaScript, TypeScript & Git Learning Resource](https://docs.google.com/document/d/1_aV2zSxGqxYbqkQcOpeKf5ikivCw9n7RjQi7dJ18Q8Y/edit?usp=sharing)
 
 ---
 
