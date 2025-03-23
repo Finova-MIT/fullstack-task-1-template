@@ -1,0 +1,42 @@
+<!DOCTYPE html>
+<html lang="en">
+
+<head>
+    <meta charset="UTF-8">
+    <meta name="viewport" content="width=device-width, initial-scale=1.0">
+    <title>Task 1 | Fullstack Development</title>
+
+    <!-- this is to link my style.css file to my html. alternatively you can use <style> tag -->
+    <link rel="stylesheet" href="style.css">
+</head>
+
+<body>
+
+    <!-- a container class so that i can center the whole thing -->
+    <div class="container">
+
+        <!-- i am creating a span for "Finova" to style it separately -->
+        <h1 class="title">Guess the current stock price of <span class="company-name">Finova</span></h1>
+
+        <!-- i am wrapping the input field and button in one div to position and style them as a group -->
+        <div class="input">
+            <!-- i could have used type="number", but i wanted to implement the rules myself in TypeScript :P -->
+            <input type="text" name="guess" id="guess" placeholder="Enter your guess upto 2 decimal places...">
+            <button id="submit">GUESS</button>
+        </div>
+
+        <!-- the notifications have 2 classes. can think it as inheritance. notification is styling both the notification components, and the success, failure components are further styling the specific components -->
+        <div class="notification success">
+            <!-- same logic for span as the company-name span -->
+            <h2 class="notification-title">You guessed <span class="state-success">CORRECTLY</span>!</h2>
+            <p>The current stock price of finova is: <span class="price">₹150.23</span></p>
+        </div>
+
+        <div class="notification failure">
+            <h2 class="notification-title">You guessed <span class="state-failure">INCORRECTLY</span>.</h2>
+            <p>The current stock price of finova is: <span class="price">₹150.23</span></p>
+        </div>
+    </div>
+</body>
+
+</html>
