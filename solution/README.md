@@ -8,5 +8,6 @@ You can find the solution to [Task 1](../README.md) in this folder.
 
 The codebase is well documented. Feel free to ask doubts in the group or DMs if you have any,
 
-*Pranav*
+**Pranav**
+
 _Fullstack Development Head_
